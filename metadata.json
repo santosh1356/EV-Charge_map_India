@@ -1,0 +1,5 @@
+{
+  "name": "EV Charge Map India",
+  "description": "An application to find and display electric vehicle charging stations across major cities in India, using a simulated map interface powered by AI-generated data.",
+  "requestFramePermissions": []
+}
